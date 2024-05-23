@@ -1,64 +1,63 @@
 # Expense Tracker
 
-Expense Tracker adalah aplikasi sederhana yang membantu kita melacak pengeluaran harian kita. Dengan aplikasi ini, kita dapat mencatat semua transaksi, mengelompokkan pengeluaran berdasarkan kategori, dan melihat laporan pengeluaran kita.
+Expense Tracker is a simple application that helps us track our daily expenses. With this application, we can record all transactions, categorize expenses, and view our expense reports.
 
-## Fitur
+## Features
 
-- **Income**: Kategori transaksi untuk analisis pemasukan.
-- **Expense**: Kategori transaksi untuk analisis pengeluaran.
-- **Total Balance**: Lihat laporan hasil dari penghasilan dan pengeluaran yang sudah dihitung.
-- **Grafik dan Statistik**: Visualisasikan pemasukan & pengeluaran kita dengan grafik yang mudah dipahami.
-- **Category**: Memilih kategori income/expense.
+- **Income**: Transaction category for income analysis.
+- **Expense**: Transaction category for expense analysis.
+- **Total Balance**: View the calculated result of income and expenses.
+- **Graphs and Statistics**: Visualize our income and expenses with easy-to-understand graphs.
+- **Category**: Choose income/expense categories.
 
-## Teknologi yang Digunakan
+## Technologies Used
 
 - **Frontend**: React.js
 - **Styling**: CSS
-- **Package Management**: npm (melalui `package.json`)
-- **Version Control**: Git (dengan `.gitignore`)
+- **Package Management**: npm (via `package.json`)
+- **Version Control**: Git (with `.gitignore`)
 
-## Instalasi
+## Installation
 
-Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan local.
+Here are the steps to run this project locally.
 
-### Prasyarat
+### Prerequisites
 
-Pastikan Anda telah menginstal:
+Make sure you have installed:
 
 - [Node.js](https://nodejs.org/)
 
-### Langkah-langkah
+### Steps
 
-1. Clone repositori ini
+1. Clone this repository
 
     ```bash
-    git clone https://github.com/username/EXPENSE-TRACKER.git
+    git clone https://github.com/Hakim393/EXPENSE-TRACKER
     cd EXPENSE-TRACKER
     ```
 
-2. Instal dependensi
+2. Install dependencies
 
     ```bash
     npm install
     ```
 
-3. Jalankan aplikasi
+3. Run the application
 
     ```bash
     npm start
     ```
 
-4. Buka browser dan akses aplikasi di `http://localhost:3000`
+4. Open your browser and access the application at `http://localhost:3000`
 
+## License
 
-## Lisensi
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+## Contact
 
-## Kontak
-
-Jika kita memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya di [fikhihakim45@gmail.com](mailto:fikhihakim45@gmail.com).
+If you have any questions or suggestions, feel free to contact me at [fikhihakim45@gmail.com](mailto:fikhihakim45@gmail.com).
 
 ---
 
-Terima kasih telah menggunakan Expense Tracker!
+Thank you for using Expense Tracker!
